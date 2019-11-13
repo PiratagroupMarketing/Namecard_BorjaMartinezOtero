@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Griffiths;Sophie;;;
-FN: Sophie  Griffiths 
+N:Martinez Otero;Borja;;;
+FN: Borja  Martinez Otero 
 ORG:PirataGroup;
-TITLE:Head of Guest Relations\n Guest Relations Department
-EMAIL;type=INTERNET;type=WORK;type=pref:sophie@piratagroup.hk
-TEL;type=WORK;type=VOICE:+852 6713 8813
+TITLE:Business Analyst\n Operations Department
+EMAIL;type=INTERNET;type=WORK;type=pref:borja@piratagroup.hk
+TEL;type=WORK;type=VOICE:+852 6147 3890
 item1.ADR;type=WORK;type=pref:;;1/F, The Factory,\nNo. 1 Yip Fat Street, \nWong Chuk Hang;;;;Hong Kong
 item1.X-ABADR:sg
 item2.URL;type=pref:piratagroup.hk
